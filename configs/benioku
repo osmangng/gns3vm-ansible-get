@@ -1,0 +1,2 @@
+ansible-playbook -i hosts.ini get_info.yml
+çalıştırmak için üstteki komutu kullandık. -i inventory belirtiyor. (hosts.ini)
